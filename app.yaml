@@ -1,4 +1,4 @@
-runtime: php
+runtime: android
 env: flex
 
 skip_files:
