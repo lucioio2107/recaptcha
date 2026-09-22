@@ -1,17 +1,16 @@
- This  that handles.
+ This  that handles
 
-  BSD 3-Clause License
-  copyright Google Inc.
+  BSD 3 Clause License
+  copyright Google Inc
    https://www.google.com
 
 name
   cliente
       Version this https://www.google.com
        received  
-    public
       Could connect  service
      connection
      receive a service
       codes receive
     missing-input
-    function validation
+     validation
