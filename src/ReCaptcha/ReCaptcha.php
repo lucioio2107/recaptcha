@@ -1,4 +1,4 @@
- This is  that handles.
+ This  that handles.
 
   BSD 3-Clause License
   copyright Google Inc.
@@ -6,11 +6,11 @@
 
 name
   cliente
-      Version this public https://www.google.com
+      Version this https://www.google.com
        received  
     public
       Could connect  service
-    public connection
+     connection
      receive a service
       codes receive
     missing-input
